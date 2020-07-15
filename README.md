@@ -1,6 +1,7 @@
 # 3003
 
 > 一款基于Three.js开发的2d游戏，研发中，敬请期待...
+> 预览地址：https://xubinxian.github.io/3003/
 
 ## Build Setup
 
